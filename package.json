@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "html5-qrcode": "^2.3.8",
+    "leaflet": "^1.9.4",
+    "pg": "^8.16.3",
+    "react-router-dom": "^7.9.3"
+  },
+  "name": "information_system_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanHongPhong/information_system_web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanHongPhong/information_system_web/issues"
+  },
+  "homepage": "https://github.com/TanHongPhong/information_system_web#readme"
+}
